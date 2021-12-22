@@ -8,7 +8,7 @@ public class Main {
 
     static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/flats?serverTimezone=Europe/Kiev";
     static final String DB_USER = "root";
-    static final String DB_PASSWORD = "151298";
+    static final String DB_PASSWORD = "password";
 
     static Connection conn;
 
